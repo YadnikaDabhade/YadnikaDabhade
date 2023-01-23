@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaishnavi Chandrashekhar Dabhade</h1>
-<p align="left"> <img src="https://user-images.githubusercontent.com/99734957/214110393-177e744f-5611-4dcf-b5f0-16085c597df0.png"></p>
+<p align="left"> <img src="https://user-images.githubusercontent.com/99734957/214121255-9e1db22c-51c2-4050-bd10-a02ea34793ba.png"></p>
 
 <h3 align="center">A passionate Frontend Developer from India .Goal is to achieve a Good Position in IT field ,strongly focused to complete tasks in Fast-faced Environment.</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
@@ -37,3 +37,15 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yadnikadabhade&show_icons=true&locale=en" alt="yadnikadabhade" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yadnikadabhade&" alt="yadnikadabhade" /></p>
+
+
+
+
+
+
+
+
+
+
+
+
