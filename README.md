@@ -35,7 +35,10 @@
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yadnikadabhade&theme=jolly" alt="yadnikadabhade" />
 </p>
 
-<p><img align="left ", width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=yadnikadabhade&show_icons=true&theme=jolly&layout=compact" alt="yadnikadabhade" /></p>
+<p><img align="left ",  src="https://github-readme-stats.vercel.app/api/top-langs?username=yadnikadabhade&show_icons=true&theme=jolly&layout=compact" alt="yadnikadabhade" /></p>
+
+
+<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 
 
 
