@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **yadnika178@gmail.com**
 
-- ⚡ Fun fact **I think I am Funny**
+- ⚡ Fun fact **I'm Teaddybear to my bestii 😉😂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,10 +32,10 @@
   <br/>
 <p align="center">&nbsp;
 <img width="48%"  src="https://github-readme-stats.vercel.app/api?username=yadnikadabhade&show_icons=true&theme=jolly" alt="yadnikadabhade" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yadnikadabhade&theme=jolly" alt="yadnikadabhade" />
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=yadnikadabhade&theme=jolly" alt="yadnikadabhade" />
 </p>
 
-<p><img align="left ",  src="https://github-readme-stats.vercel.app/api/top-langs?username=yadnikadabhade&show_icons=true&theme=jolly&layout=compact" alt="yadnikadabhade" /></p>
+<p><img align="left ",width="38%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=yadnikadabhade&show_icons=true&theme=jolly&layout=compact" alt="yadnikadabhade" /></p>
 
 
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
