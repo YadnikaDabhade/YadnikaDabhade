@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **yadnika178@gmail.com**
 
-- ⚡ Fun fact **I'm Teaddybear to my bestii 😉😂**
+- ⚡ Fun fact **I'm crazy about Adventures..🤠**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
