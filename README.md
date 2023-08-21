@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vaishnavi Chandrashekhar Dabhade</h1>
 <p align="left"> <img src="https://user-images.githubusercontent.com/99734957/214121255-9e1db22c-51c2-4050-bd10-a02ea34793ba.png"></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yadnikadabhade&label=Profile%20views&color=0e75b6&style=flat" alt="yadnikadabhade" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=yadnikadabhade&label=Profile%20views&color=0e75b6&style=flat](https://www.canva.com/design/DAFsKRYlSv8/rO45bFu1EZInUyMVNQ6T6w/edit?utm_content=DAFsKRYlSv8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)" alt="yadnikadabhade" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@vaishnavi_d_178" target="blank"><img src="https://img.shields.io/twitter/follow/@vaishnavi_d_178?logo=twitter&style=for-the-badge" alt="@vaishnavi_d_178" /></a> </p>
 <h3 align="center">A passionate Frontend Developer from India .Goal is to achieve a Good Position in IT field ,strongly focused to complete tasks in Fast-faced Environment.</h3>
