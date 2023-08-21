@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaishnavi Chandrashekhar Dabhade</h1>
-<p align="left"> <img src="https://user-images.githubusercontent.com/99734957/214121255-9e1db22c-51c2-4050-bd10-a02ea34793ba.png"></p>
+<!-- <p align="left"> <img src="https://user-images.githubusercontent.com/99734957/214121255-9e1db22c-51c2-4050-bd10-a02ea34793ba.png"></p> -->
 <p align="left"> <img src="https://github.com/YadnikaDabhade/COFFEE-SHOP/assets/99734957/86e17a50-3a51-44ce-bd55-06ed0ff8dc3a.png"></p>
 
 <p align="left"> <a href="https://twitter.com/@vaishnavi_d_178" target="blank"><img src="https://img.shields.io/twitter/follow/@vaishnavi_d_178?logo=twitter&style=for-the-badge" alt="@vaishnavi_d_178" /></a> </p>
